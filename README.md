@@ -10,3 +10,6 @@ Sample website with plenty of files for demos
 ## test
 
 Test om te kijken of het werkt
+
+## test2
+Met nog een tekst eronder
