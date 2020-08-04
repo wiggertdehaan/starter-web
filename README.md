@@ -18,3 +18,7 @@ Met nog een tekst eronder
 ### copyright
 
 Wiggert
+
+## how to contribute
+
+Please fork this repository and...
