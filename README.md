@@ -3,7 +3,7 @@
 This repository is for showing how Git and GitHub work
 Nog wat aanpassingen
 
-Nog een extra regel voor rebase
+Nog een extra regel voor rebase dan nog wat extra
 ## Purpose
 
 Sample website with plenty of files for demos
